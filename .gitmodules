@@ -10,3 +10,6 @@
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
+[submodule "sources/meta-custom/aic8800"]
+	path = sources/meta-custom/aic8800
+	url = https://github.com/Rkm1999/aic8800.git
